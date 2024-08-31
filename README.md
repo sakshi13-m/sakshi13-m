@@ -83,7 +83,7 @@
 
 ###
 
-<div align="center">
+<div style={{display:'flex'}}>
   <img src="https://github-readme-stats.vercel.app/api?username=sakshi13-m&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi13-m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="250" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sakshi13-m&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
