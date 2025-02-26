@@ -21,11 +21,11 @@
 
 ###
 
-<h3 align="left">Passionate React.js Developer with 3.5 years of experience in front-end development, optimizing performance, and<br>enhancing user experience. Recognized for exceptional contributions and delivering high-impact projects.</h3>
+<h3 align="left">Passionate React.js Developer with 4 years of experience in front-end development, optimizing performance, and<br>enhancing user experience. Recognized for exceptional contributions and delivering high-impact projects.</h3>
 
 ###
 
-<p align="left">I am a Front-end Developer (React.js Developer), a passionate programmer, and a Software developer with a keen eye for design and a drive to deliver exceptional user experiences. I'm on a mission to transform ideas into interactive and visually stunning web applications.<br>Currently working as a Software Engineer at Natwest Group. Having an overall experience of around 3 years as a Frontend Developer.<br><br>💻 Expert in HTML, CSS, JavaScript, typescript, and modern frontend frameworks like React and next.js.<br>🎨 Strong design sensibilities, ensuring that not only the functionality but also the aesthetics of a website are top-notch.<br>🛠️ Proficient with responsive web design and cross-browser compatibility.<br>📐 Dedicated to creating intuitive and user-friendly interfaces.<br>🧩 Always excited to collaborate with teams to turn concepts into reality.</p>
+<p align="left">I am a Front-end Developer (React.js Developer), a passionate programmer, and a Software developer with a keen eye for design and a drive to deliver exceptional user experiences. I'm trying to transform ideas into interactive and visually stunning web applications.<br>Currently working as a Software Engineer at Natwest Group. I have around 4 years of experience as a front-end developer.<br><br>💻 Expert in HTML, CSS, JavaScript, typescript, and modern frontend frameworks like React and next.js.<br>🎨 Strong design sensibilities, ensuring that not only the functionality but also the aesthetics of a website are top-notch.<br>🛠️ Proficient with responsive web design and cross-browser compatibility.<br>📐 Dedicated to creating intuitive and user-friendly interfaces.<br>🧩 Always excited to collaborate with teams to turn concepts into reality.</p>
 
 ###
 
